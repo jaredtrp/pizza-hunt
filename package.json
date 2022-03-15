@@ -11,16 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3",
-    "mongoose": "^6.2.6"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jaredtrp/pizza-hunt.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jaredtrp/pizza-hunt/issues"
-  },
-  "homepage": "https://github.com/jaredtrp/pizza-hunt#readme",
-  "devDependencies": {}
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7"
+  }
 }
